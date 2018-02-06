@@ -9,4 +9,4 @@
 
 
 ## Whats next?
-The next lab is located [here](https://github.com/Zipcoder/ZCW-MicroLabs-OOP-AliceAndBob).
+The next lab is located [here](https://github.com/Zipcoder/CR-MicroLabs-JavaFundamentals-DanDoBetterDrills).
